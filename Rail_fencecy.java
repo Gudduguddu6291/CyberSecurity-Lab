@@ -1,4 +1,4 @@
-public class Hill_fencecy {
+public class Rail_fencecy {
     public static void main(String[] args) {
         String s="Goodafternoon";
         int key=4;
